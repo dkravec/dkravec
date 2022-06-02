@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I do programming or something
 
 
-### Technologies I know
+### Technologies
 <div align = "center">
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
@@ -28,7 +28,23 @@
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 </div>
 
-### My GitHub stats
+### Languages
+Everything coding language I have ever done. That I remember... Doesn't mean I'm any good at some of the ones listed.
+- JavaScript
+- SwiftUI
+- C#
+- AppleScript
+- Bash
+- UIKit
+- Python
+- GDScript
+- Kotlin
+- Sonic Pi
+- HTML, CSS
+- Markdown >:)
+
+
+### My GitHub Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=dkravec&count_private=true&show_icons=true&include_all_commits=true&theme=bear" width = 400>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dkravec&hide=TeX&layout=compact&include_all_commits=true&theme=bear" width = 400>  
