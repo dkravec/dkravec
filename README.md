@@ -42,7 +42,7 @@ Everything coding language I have ever done. That I remember... Doesn't mean I'm
 - Sonic Pi
 - HTML, CSS
 - Markdown >:)
-
+- TI-Basic
 
 ### My GitHub Stats
 <p align = "center">
