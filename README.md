@@ -44,6 +44,22 @@ Everything coding language I have ever done. That I remember... Doesn't mean I'm
 - Markdown >:)
 - TI-Basic
 
+### My favourite projects
+
+[Interact Frontend](https://github.com/dkravec/social-frontend-plain)
+- This is the frontend to [Interact](https://interact.novapro.net), you can view it and check out the API Docs [Interact Frontend](https://github.com/dkravec/social-documentation).
+
+
+[CS Solitare](https://github.com/dkravec/cs-solitaire)
+- i created this to help me learn c#.
+
+[Crawler](https://github.com/dkravec/web-crawler)
+- This was to crawl the internet, just a fun little experiment.
+
+[Snap Tools](https://github.com/dkravec/SnapTools)
+- This was to help me learn AppleScript, and it moves some windows around and stuff, pretty fun.
+
+
 ### My GitHub Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=dkravec&count_private=true&show_icons=true&include_all_commits=true&theme=bear" width = 400>
