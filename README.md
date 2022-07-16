@@ -59,6 +59,8 @@ Everything coding language I have ever done. That I remember... Doesn't mean I'm
 [Snap Tools](https://github.com/dkravec/SnapTools)
 - This was to help me learn AppleScript, and it moves some windows around and stuff, pretty fun.
 
+[Ray Tracer](https://github.com/dkravec/js-ray-tracer)
+
 
 ### My GitHub Stats
 <p align = "center">
