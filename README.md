@@ -64,8 +64,6 @@ Everything coding language I have ever done. That I remember... Doesn't mean I'm
 
 ### My GitHub Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=dkravec&count_private=true&show_icons=true&include_all_commits=true&theme=bear" width = 500>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dkravec&hide=TeX&layout=compact&include_all_commits=true&theme=bear" width = 500>  
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=dkravec&theme=dark&hide_border=true" width = 500>
-  <img src="https://activity-graph.herokuapp.com/graph?username=dkravec&bg_color=151515&color=FFFFFF&line=FFA500&point=FFFFFF&area_color=ec9235&area=true&hide_border=true" width = 500>
 </p>
