@@ -45,10 +45,18 @@ Everything coding language I have ever done. That I remember... Doesn't mean I'm
 - TI-Basic
 
 ### My favourite projects
+[Interact Projects](https://github.com/social-novapro)
+- This is a GitHub organization I created to host all open source projects related to [Interact](https://interact.novapro.net).
+
+
+Interact Backend
+- This is the backend to [Interact](https://interact.novapro.net), it is current private, but you can still use the API. I plan to make the backend public this Summer 2023.
 
 [Interact Frontend](https://github.com/dkravec/social-frontend-plain)
 - This is the frontend to [Interact](https://interact.novapro.net), you can view it and check out the API Docs [Interact Frontend](https://github.com/dkravec/social-documentation).
 
+Astra
+- This is a discord bot, but it is currently private, plans to make it public soon.
 
 [CS Solitare](https://github.com/dkravec/cs-solitaire)
 - i created this to help me learn c#.
